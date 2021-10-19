@@ -14,6 +14,16 @@
       "id": 3,
       "name": "Sangsung S20+",
       "price": 5000.89
+    },
+    {
+      "name": "Teste",
+      "price": "50.0",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "3000.00",
+      "id": 5
     }
   ]
 }
